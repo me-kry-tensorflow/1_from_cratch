@@ -7,6 +7,8 @@ bemeneten tul egy sajat bemenetet is hasznal (bias), ami sima
 novekmeny.
 https://en.wikipedia.org/wiki/Perceptron
 
+https://vitalflux.com/wp-content/uploads/2020/10/Screenshot-2020-10-11-at-9.02.30-AM.png
+
 * input1 OR input2 -> output1
 * 0 OR 1 -> 1
 * 1 OR 0 -> 1
